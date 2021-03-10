@@ -1,3 +1,3 @@
 # cicd-buzz
 
-Test CICD pipeline with Travis and GitOPS
+Test CICD pipeline with TravisCI and GitOPS
